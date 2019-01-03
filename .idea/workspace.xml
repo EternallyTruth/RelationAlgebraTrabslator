@@ -1,0 +1,756 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="571caa21-3c17-46be-a62c-23f53d2aea91" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="1086878701">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="22" />
+          <entry key="project.open.time.10" value="1" />
+          <entry key="project.open.time.13" value="1" />
+          <entry key="project.open.time.14" value="1" />
+          <entry key="project.open.time.16" value="1" />
+          <entry key="project.open.time.28" value="2" />
+          <entry key="project.open.time.29" value="4" />
+          <entry key="project.open.time.30" value="4" />
+          <entry key="project.open.time.31" value="4" />
+          <entry key="project.open.time.32" value="2" />
+          <entry key="project.open.time.33" value="1" />
+          <entry key="project.open.time.34" value="1" />
+          <entry key="project.open.time.35" value="1" />
+          <entry key="project.opened" value="24" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="dummy" value="9" />
+          <entry key="ft" value="47" />
+          <entry key="g4" value="3752" />
+          <entry key="java" value="8877" />
+          <entry key="xml" value="25" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="ANTLR v4 grammar file" value="3752" />
+          <entry key="JAVA" value="8877" />
+          <entry key="PLAIN_TEXT" value="9" />
+          <entry key="VTL" value="47" />
+          <entry key="XML" value="25" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="bat" value="3" />
+          <entry key="class" value="1" />
+          <entry key="g4" value="45" />
+          <entry key="iml" value="1" />
+          <entry key="java" value="168" />
+          <entry key="tokens" value="11" />
+          <entry key="xml" value="3" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="ANTLR v4 grammar file" value="45" />
+          <entry key="CLASS" value="1" />
+          <entry key="IDEA_MODULE" value="1" />
+          <entry key="JAVA" value="168" />
+          <entry key="PLAIN_TEXT" value="14" />
+          <entry key="XML" value="3" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/antlr/Algebra2SqlTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-2">
+              <caret line="17" selection-start-line="17" selection-end-line="17" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/antlr/Algebra2SqlVisitor.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="88">
+              <caret line="16" column="36" lean-forward="true" selection-start-line="16" selection-start-column="36" selection-end-line="16" selection-end-column="36" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#9973#9974#0" expanded="true" />
+                <element signature="e#9999#10000#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/antlr/RelationlAlgebra.g4">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="330">
+              <caret line="93" column="70" selection-start-line="93" selection-start-column="70" selection-end-line="93" selection-end-column="70" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/antlr/Table.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="49">
+              <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="13" selection-end-column="41" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>relationI</find>
+      <find>Attr</find>
+      <find>attrlistinitial</find>
+      <find>crea</find>
+      <find>relationEx</find>
+      <find>stringDomain</find>
+      <find>project</find>
+      <find>select</find>
+      <find>like</find>
+      <find>match</find>
+      <find>STRING</find>
+      <find>STRING()</find>
+      <find>compared</find>
+      <find>stringCompared</find>
+      <find>AS</find>
+      <find>Pro</find>
+      <find>Selec</find>
+      <find>UNION</find>
+      <find>INTER</find>
+      <find>EXCEPT</find>
+      <find>selection</find>
+      <find>attri</find>
+      <find>ini</find>
+      <find>Sys</find>
+      <find>Relation</find>
+      <find>RelationEx</find>
+      <find>Proje</find>
+      <find>database</find>
+      <find>Attrlist</find>
+      <find>Alias</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/java/com/antlr/Demo.g4" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/antlr/MyCalculator.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/antlr/Hello.g4" />
+        <option value="$PROJECT_DIR$/src/main/resources/antlr4.bat" />
+        <option value="$PROJECT_DIR$/src/main/resources/grun.bat" />
+        <option value="$PROJECT_DIR$/src/main/java/com/antlr/ArrayInit.g4" />
+        <option value="$PROJECT_DIR$/src/main/java/com/antlr/Text.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/antlr/ShortToUnicodeString.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/antlr/ArrayInitOut/ArrayInitParser.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/antlr/ArrayInitOut/ArrayInitListener.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/antlr/ArrayInitOut/ArrayInitLexer.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/antlr/ArrayInitOut/ArrayInitBaseListener.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/antlr/Expr.g4" />
+        <option value="$PROJECT_DIR$/src/main/java/com/antlr/PropertyFile.g4" />
+        <option value="$PROJECT_DIR$/src/main/java/com/antlr/Test.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/antlr/JSONXML.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/antlr/TestVisitor.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/antlr/JSON2XML.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/antlr/JSON.g4" />
+        <option value="$PROJECT_DIR$/src/main/java/com/antlr/TestListener.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/antlr/XMLEmitter.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/antlr/EvalVisitor.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/antlr/Table.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/antlr/Algebra2SqlVisitor.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/antlr/Algebra2SqlTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/antlr/RelationlAlgebra.g4" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="myantlr" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-80" />
+    <option name="y" value="147" />
+    <option name="width" value="1561" />
+    <option name="height" value="897" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="myantlr" type="b2602c69:ProjectViewProjectNode" />
+              <item name="myantlr" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="myantlr" type="b2602c69:ProjectViewProjectNode" />
+              <item name="myantlr" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="myantlr" type="b2602c69:ProjectViewProjectNode" />
+              <item name="myantlr" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="myantlr" type="b2602c69:ProjectViewProjectNode" />
+              <item name="myantlr" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="myantlr" type="b2602c69:ProjectViewProjectNode" />
+              <item name="myantlr" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="myantlr" type="b2602c69:ProjectViewProjectNode" />
+              <item name="myantlr" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="antlr" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="$PROJECT_DIR$/src/main/java/com/antlr/ArrayInit.g4::/auto-gen" value="false" />
+    <property name="$PROJECT_DIR$/src/main/java/com/antlr/ArrayInit.g4::/gen-listener" value="true" />
+    <property name="$PROJECT_DIR$/src/main/java/com/antlr/ArrayInit.g4::/gen-visitor" value="false" />
+    <property name="$PROJECT_DIR$/src/main/java/com/antlr/ArrayInit.g4::/output-dir" value="C:\Users\76165\Desktop\myantlr\src\main\java\com\antlr" />
+    <property name="$PROJECT_DIR$/src/main/java/com/antlr/ArrayInit.g4::/package" value="ArrayInitOut" />
+    <property name="$PROJECT_DIR$/src/main/java/com/antlr/Demo.g4::/auto-gen" value="false" />
+    <property name="$PROJECT_DIR$/src/main/java/com/antlr/Demo.g4::/gen-listener" value="true" />
+    <property name="$PROJECT_DIR$/src/main/java/com/antlr/Demo.g4::/gen-visitor" value="true" />
+    <property name="$PROJECT_DIR$/src/main/java/com/antlr/Demo.g4::/output-dir" value="C:\Users\76165\Desktop\myantlr\src\main\java" />
+    <property name="$PROJECT_DIR$/src/main/java/com/antlr/Expr.g4::/auto-gen" value="false" />
+    <property name="$PROJECT_DIR$/src/main/java/com/antlr/Expr.g4::/gen-listener" value="true" />
+    <property name="$PROJECT_DIR$/src/main/java/com/antlr/Expr.g4::/gen-visitor" value="true" />
+    <property name="$PROJECT_DIR$/src/main/java/com/antlr/Expr.g4::/output-dir" value="C:\Users\76165\Desktop\myantlr\src\main\java\com\antlr" />
+    <property name="$PROJECT_DIR$/src/main/java/com/antlr/Expr.g4::/package" value="out" />
+    <property name="$PROJECT_DIR$/src/main/java/com/antlr/Hello.g4::/auto-gen" value="false" />
+    <property name="$PROJECT_DIR$/src/main/java/com/antlr/Hello.g4::/gen-listener" value="true" />
+    <property name="$PROJECT_DIR$/src/main/java/com/antlr/Hello.g4::/gen-visitor" value="false" />
+    <property name="$PROJECT_DIR$/src/main/java/com/antlr/Hello.g4::/output-dir" value="C:\Users\76165\Desktop\myantlr\src\main\java\com\antlr" />
+    <property name="$PROJECT_DIR$/src/main/java/com/antlr/Hello.g4::/package" value="helloout" />
+    <property name="$PROJECT_DIR$/src/main/java/com/antlr/JSON.g4::/auto-gen" value="false" />
+    <property name="$PROJECT_DIR$/src/main/java/com/antlr/JSON.g4::/gen-listener" value="true" />
+    <property name="$PROJECT_DIR$/src/main/java/com/antlr/JSON.g4::/gen-visitor" value="true" />
+    <property name="$PROJECT_DIR$/src/main/java/com/antlr/JSON.g4::/output-dir" value="C:\Users\76165\Desktop\myantlr\src\main\java\com\antlr" />
+    <property name="$PROJECT_DIR$/src/main/java/com/antlr/JSON.g4::/package" value="jsonOut" />
+    <property name="$PROJECT_DIR$/src/main/java/com/antlr/RelationlAlgebra.g4::/auto-gen" value="false" />
+    <property name="$PROJECT_DIR$/src/main/java/com/antlr/RelationlAlgebra.g4::/gen-listener" value="true" />
+    <property name="$PROJECT_DIR$/src/main/java/com/antlr/RelationlAlgebra.g4::/gen-visitor" value="true" />
+    <property name="$PROJECT_DIR$/src/main/java/com/antlr/RelationlAlgebra.g4::/output-dir" value="C:\Users\76165\Desktop\myantlr\src\main\java\com\antlr" />
+    <property name="$PROJECT_DIR$/src/main/java/com/antlr/RelationlAlgebra.g4::/package" value="algebraOut" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/com/antlr" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="fileTemplates" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Algebra2SqlTest">
+    <configuration name="Algebra2SqlTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.antlr.Algebra2SqlTest" />
+      <module name="myantlr" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.antlr.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="antlr.ArrayInit.Test" />
+      <module name="myantlr" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="antlr.ArrayInit.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestListener" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.antlr.TestListener" />
+      <module name="myantlr" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.antlr.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestVisitor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.antlr.TestVisitor" />
+      <module name="myantlr" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.antlr.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="XMLEmitter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.antlr.XMLEmitter" />
+      <module name="myantlr" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.antlr.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Test" />
+      <item itemvalue="Application.TestVisitor" />
+      <item itemvalue="Application.TestListener" />
+      <item itemvalue="Application.XMLEmitter" />
+      <item itemvalue="Application.Algebra2SqlTest" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Algebra2SqlTest" />
+        <item itemvalue="Application.XMLEmitter" />
+        <item itemvalue="Application.TestListener" />
+        <item itemvalue="Application.TestVisitor" />
+        <item itemvalue="Application.Test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="571caa21-3c17-46be-a62c-23f53d2aea91" name="Default Changelist" comment="" />
+      <created>1545141667372</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1545141667372</updated>
+      <workItem from="1545141678046" duration="650000" />
+      <workItem from="1545142376012" duration="4585000" />
+      <workItem from="1545217649772" duration="4902000" />
+      <workItem from="1545226010243" duration="6573000" />
+      <workItem from="1545450201659" duration="1874000" />
+      <workItem from="1545459796252" duration="10917000" />
+      <workItem from="1545476914122" duration="7312000" />
+      <workItem from="1545821958355" duration="4127000" />
+      <workItem from="1545827272505" duration="7622000" />
+      <workItem from="1545976346277" duration="19041000" />
+      <workItem from="1546000687787" duration="2911000" />
+      <workItem from="1546066913102" duration="4592000" />
+      <workItem from="1546307869526" duration="9370000" />
+      <workItem from="1546320344048" duration="648000" />
+      <workItem from="1546323029884" duration="13118000" />
+      <workItem from="1546342203439" duration="7549000" />
+      <workItem from="1546351927784" duration="1375000" />
+      <workItem from="1546397099412" duration="10112000" />
+      <workItem from="1546414789866" duration="2931000" />
+      <workItem from="1546423805567" duration="8593000" />
+      <workItem from="1546436010151" duration="3569000" />
+      <workItem from="1546483701131" duration="6855000" />
+      <workItem from="1546495972915" duration="5377000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="144603000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-80" y="147" width="1561" height="897" extended-state="0" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21119253" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="UI Designer" order="3" />
+      <window_info id="Favorites" order="4" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4993007" weight="1.0" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3997006" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Tool Output" order="8" weight="0.0" />
+      <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.49847096" weight="0.36503497" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.50181556" side_tool="true" weight="0.6074879" />
+      <window_info anchor="bottom" x="1" y="291" width="1614" height="501" id="ANTLR Preview" order="12" sideWeight="0.49818447" type="WINDOWED" weight="0.6228288" />
+      <window_info anchor="bottom" id="Messages" order="13" weight="0.33682832" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Palette&#9;" order="4" />
+      <window_info anchor="right" id="Database" order="5" />
+      <window_info anchor="right" id="Maven Projects" order="6" weight="0.32947582" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.tokens" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/myantlr.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/antlr/out/DemoBaseVisitor.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/antlr/out/Demo.tokens" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/antlr/out/DemoBaseListener.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/antlr/out/DemoListener.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/antlr/out/DemoParser.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/antlr/MyCalculator.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/antlr/out/DemoLexer.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/resources/antlr4.bat" />
+    <entry file="file://$PROJECT_DIR$/src/main/resources/grun.bat" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/antlr/helloout/Hello.tokens" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/antlr/helloout/HelloLexer.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/antlr/helloout/HelloParser.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/antlr/helloout/HelloBaseListener.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/antlr/helloout/HelloListener.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/antlr/FFF.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/antlr/Demo.g4" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/antlr/ArrayInitOut/ArrayInitListener.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/antlr/ArrayInitOut/ArrayInitLexer.tokens" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/antlr/ArrayInitOut/ArrayInit.tokens" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/antlr/ArrayInitOut/ArrayInitLexer.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/antlr/ArrayInitOut/ArrayInitParser.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/antlr/ArrayInitOut/ArrayInitBaseListener.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/antlr/ShortToUnicodeString.java" />
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="156">
+          <caret line="34" column="29" selection-start-line="34" selection-start-column="29" selection-end-line="34" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/antlr/out/ExprVisitor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="9" column="12" selection-start-line="9" selection-start-column="12" selection-end-line="9" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/antlr/out/ExprListener.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="10" column="62" lean-forward="true" selection-start-line="10" selection-start-column="62" selection-end-line="10" selection-end-column="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/antlr/Hello.g4" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/antlr/ArrayInit.g4" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/antlr/PropertyFile.g4" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/antlr/out/ExprParser.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/antlr/out/ExprBaseVisitor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="11" column="3" lean-forward="true" selection-start-line="11" selection-start-column="3" selection-end-line="11" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/antlr/out/ExprBaseListener.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/antlr/TestListener.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="569">
+          <caret line="30" column="24" lean-forward="true" selection-start-line="30" selection-start-column="24" selection-end-line="30" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/antlr/algebraOut/RelationlAlgebraBaseVisitor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="365">
+          <caret line="19" column="76" lean-forward="true" selection-start-line="19" selection-start-column="76" selection-end-line="19" selection-end-column="79" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../relational-algebra-interpreter-using-antlr-v4-master/Rel_Al_Intrepreter/src/interpreter/RelAlgebraVisitor.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/antlr/XMLEmitter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1716">
+          <caret line="86" column="25" selection-start-line="86" selection-start-column="25" selection-end-line="86" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/antlr/JSON.g4">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="440">
+          <caret line="20" column="25" selection-start-line="20" selection-start-column="25" selection-end-line="20" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/antlr/TestVisitor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="8" column="25" selection-start-line="8" selection-start-column="25" selection-end-line="8" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/antlr/EvalVisitor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1320">
+          <caret line="62" column="8" selection-start-line="62" selection-start-column="8" selection-end-line="62" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/antlr/Expr.g4">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="3" column="3" selection-start-line="3" selection-start-column="3" selection-end-line="3" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/antlr/antlr4-runtime/4.7/antlr4-runtime-4.7.jar!/org/antlr/v4/runtime/tree/AbstractParseTreeVisitor.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/antlr/algebraOut/RelationlAlgebraParser.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-286">
+          <caret line="12" column="52" lean-forward="true" selection-start-line="12" selection-start-column="52" selection-end-line="12" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/antlr/RelationlAlgebra.g4">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="93" column="70" selection-start-line="93" selection-start-column="70" selection-end-line="93" selection-end-column="70" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/antlr/Table.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="49">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="13" selection-end-column="41" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/antlr/Algebra2SqlVisitor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="16" column="36" lean-forward="true" selection-start-line="16" selection-start-column="36" selection-end-line="16" selection-end-column="36" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#9973#9974#0" expanded="true" />
+            <element signature="e#9999#10000#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/antlr/Algebra2SqlTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>myantlr</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>IntelliJ IDEA IU-182.5107.16</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: antlr:antlr:2.7.7</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

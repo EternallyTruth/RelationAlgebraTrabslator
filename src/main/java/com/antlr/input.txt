@@ -1,0 +1,48 @@
+Movies(title:char(100),year:integer,length:integer,genre:char(10),studioName:char(30),producerC:integer);
+genreStudio(genre:char(10),studioName:char(30));
+Movies DIVISION genreStudio;
+
+//集合的操作
+select[year=1980](movies) union select[producerC=456](movies);
+select[year=1980](movies) n select[producerC=456](movies);
+select[year=1980](movies) - select[producerC=456](movies);
+
+/*投影名称、年份、长度*/
+project[title,year,length](Movies);
+/*选择电影长度大于100,生产商*/
+select[length>=100 AND studioname LIKE "%Fox%"](Movies);
+//投影-集合
+project[length,studioname](alias( (select[length>=100](Movies)) 
+n 
+(select[studioname LIKE "%Fox%"](Movies)) ) as m1);
+//选择-投影
+project[title,year](alias(select[title LIKE "%King Kong%"](Movies))as m1);
+//集合-选择-投影
+ project[length,year,studioname](
+ alias(
+	select[length>=100] (alias(
+	select[genre = "fantasy"](Movies)
+	UNION
+	select[studioname LIKE "%Fox%"](Movies))as tmp2)
+ )as tmp1
+ );
+ /*属性引用产生歧义*/
+select[length > 100](
+select[year = 1980](Movies)
+PRODUCT 
+select[producerC = 456](Movies));
+/*使用Alias操作去除歧义*/
+select[M1.length>100](
+alias(select[year=1980](Movies)) as M1
+PRODUCT
+alias(select[producerC = 456](Movies)) as M2);
+/*将公共条件放到子关系内部*/
+SELECT(
+(alias(select[year = 1980 AND length > 100](Movies)) as M1 
+PRODUCT 
+alias (select[producerC = 456 AND length > 100](Movies)) as M2));
+//对关系元数据进行重命名
+/*Movies(title:char(100),year:integer,length:integer,genre:char(10),studioName:char(30),producerC:integer);
+rename(Movies)[MovieTitle,MovieYear,MovieLength,MovieGenre,MovieStudioName,Movie,producerC](MoviesTable);*/
+
+
